@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alejandro💻
+### Hi there 👋, I'm Alejandro
 
 Im a student and software developer
 
