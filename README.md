@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alejandro
 
-Im a student and software developer
+Im a software developer
 
 ## What languages do I code?
 
@@ -12,6 +12,7 @@ Im a student and software developer
 - Python
 - SQL
 - TypeScript
+- Rust
 
 ## What tools do I use?
 
